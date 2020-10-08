@@ -112,6 +112,10 @@ html {
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.10);
 }
 
+div.article {
+    background-color: #f8f9fa;
+}
+
 .article img {
     margin-top: 5%;
 }
@@ -166,6 +170,14 @@ html {
 
 .Submit {
     width: 100%
+}
+
+input.caseInfoContact {
+    background-color: #f8f9fa;
+}
+
+textarea.caseInfoContact {
+    background-color: #f8f9fa;
 }
 
 
